@@ -67,8 +67,8 @@ Proposta de valor: experiência unificada que aumenta receita, engajamento e pre
 
 ## Para quem é
 
-- A Influyoung (22): criadora no TikTok/Instagram que quer começar a monetizar com produtos e links rastreáveis.
-- O Expert (35): professor/mentor que precisa de comunidade, assinatura e área de cursos.
+- "A Influyoung" (22): criadora no TikTok/Instagram que quer começar a monetizar com produtos e links rastreáveis.
+- "O Expert" (35): professor/mentor que precisa de comunidade, assinatura e área de cursos.
 
 ---
 
@@ -88,13 +88,10 @@ Dados e infraestrutura
 - Mensageria e jobs: Azure Service Bus
 - Armazenamento de arquivos: Azure Blob Storage
 - E‑mail transacional: SendGrid/Resend
-- Pagamentos: integração planejada com Stripe Connect (Pix) e/ou provedores locais como Pagar.me
 
 Observabilidade e entrega
 - Monitoramento e métricas gerenciadas em nuvem
 - CI/CD com qualidade e padrões de código (Conventional Commits, lint, testes)
-
-Obs.: Este README descreve a stack em alto nível — sem expor rotas, variáveis de ambiente ou configurações sensíveis.
 
 ---
 
@@ -163,4 +160,5 @@ Quer ajudar? Abra uma issue com sua sugestão ou envie um PR. Adoramos contribui
 A definir. Enquanto isso, o conteúdo deste repositório é de uso interno da equipe Cacau Creators. Para uso comercial, parcerias ou imprensa, entre em contato via Issues.
 
 — Cacau Creators ©
+
 
