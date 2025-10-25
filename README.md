@@ -12,13 +12,11 @@ Plataforma all‑in‑one para criadores brasileiros gerenciarem presença digit
   <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" />
   <img alt="Azure" src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=white" />
   <img alt="E‑mail" src="https://img.shields.io/badge/SendGrid%2FResend-1A82E2?logo=sendgrid&logoColor=white" />
-  <img alt="Pagamentos" src="https://img.shields.io/badge/Pagamentos-PIX%20%7C%20Stripe%20Connect%20%7C%20Pagar.me-635BFF?logo=stripe&logoColor=white" />
   <img alt="Status" src="https://img.shields.io/badge/Status-Em%20desenvolvimento-8EB237" />
   <img alt="Idioma" src="https://img.shields.io/badge/pt--BR-🇧🇷-2B1D22" />
-  <img alt="Licença" src="https://img.shields.io/badge/Licença-A%20definir-lightgrey" />
 </p>
 
-— Feito para criadores, com simplicidade de uso, insights acionáveis e monetização nativa.
+- Feito para criadores, com simplicidade de uso, insights acionáveis e monetização nativa.
 
 ---
 
@@ -165,3 +163,4 @@ Quer ajudar? Abra uma issue com sua sugestão ou envie um PR. Adoramos contribui
 A definir. Enquanto isso, o conteúdo deste repositório é de uso interno da equipe Cacau Creators. Para uso comercial, parcerias ou imprensa, entre em contato via Issues.
 
 — Cacau Creators ©
+
