@@ -4,10 +4,10 @@
 </p>
 
 <p align="center">
-  <img src="assets/logo2.png" alt="Logo — Cacau Creators" height="80" />
+  <img src="assets/logosfundo.png" alt="Logo — Cacau Creators" height="80" />
 </p>
 
-<h1 align="center"> Cacau Creators</h1>
+<h1 align="center">Cacau Creators</h1>
 
 <p align="center">
   Sua plataforma all‑in‑one para criar, monetizar e crescer.
@@ -129,4 +129,5 @@ Prévia (badges)
 Sugestões são bem‑vindas — criadores e devs crescem melhor juntos.
 
 ---
+
 
